@@ -1,0 +1,2 @@
+# MyNotes
+mini javascript project.
